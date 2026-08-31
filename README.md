@@ -4,7 +4,7 @@
 
 Every tool here has been used on real projects. Prices below were last verified **Aug 6, 2026** and are re-checked monthly; when one changes it is recorded with the date in the [change tracker](https://devtoolsreview.com/changes/).
 
-**11 tools · 8 with a genuinely free tier · 55 head-to-head comparisons**
+**11 tools · 7 with a genuinely free tier · 55 head-to-head comparisons**
 
 Maintained alongside [DevTools Review](https://devtoolsreview.com/). No tool pays for placement, and this list is enrolled in no affiliate programme — see [disclosure](https://devtoolsreview.com/affiliate-disclosure/).
 
@@ -23,7 +23,7 @@ Maintained alongside [DevTools Review](https://devtoolsreview.com/). No tool pay
 _The editor itself is the AI product._
 
 - **[Cursor](https://www.cursor.com/)** — AI-first code editor built on VS Code with deep codebase understanding. `$20/mo, free tier` · [review](https://devtoolsreview.com/reviews/cursor-review/)
-- **[Windsurf (Devin Desktop)](https://windsurf.com/)** — Agentic IDE (now part of Cognition) with the SWE-1.5 model and quota-based plans for multi-step coding. `$20/mo, free tier` · [review](https://devtoolsreview.com/reviews/windsurf-review/)
+- **[Windsurf (Devin Desktop)](https://devin.ai/desktop)** — Agentic IDE (now part of Cognition) with the SWE-1.5 model and quota-based plans for multi-step coding. `$20/mo, free tier` · [review](https://devtoolsreview.com/reviews/windsurf-review/)
 - **[Zed](https://zed.dev/)** — Rust-native, open-source code editor with agent-agnostic AI via ACP and real-time collaboration. `Free` · [review](https://devtoolsreview.com/reviews/zed-review/)
 - **[JetBrains AI](https://www.jetbrains.com/ai/)** — AI assistant built for JetBrains IDEs with Junie coding agent. `$10/mo` · [review](https://devtoolsreview.com/reviews/jetbrains-ai-review/)
 
@@ -33,8 +33,8 @@ _Add AI to the editor you already use._
 
 - **[GitHub Copilot](https://github.com/features/copilot)** — GitHub's AI pair programmer, deeply integrated with the GitHub ecosystem. `$10/mo, free tier` · [review](https://devtoolsreview.com/reviews/copilot-review/)
 - **[Tabnine](https://www.tabnine.com/)** — Privacy-focused AI assistant with self-hosted deployment and enterprise compliance. `$39/user/mo` · [review](https://devtoolsreview.com/reviews/tabnine-review/)
-- **[Cody](https://sourcegraph.com/cody)** — AI coding assistant by Sourcegraph with deep code search and multi-LLM support. `Free` · [review](https://devtoolsreview.com/reviews/cody-review/)
-- **[Amazon Q Developer](https://aws.amazon.com/q/developer/)** — AWS-integrated AI coding assistant with agentic capabilities and Java transformation. `$19/user/mo, free tier` · [review](https://devtoolsreview.com/reviews/amazon-q-review/)
+- **[Cody](https://sourcegraph.com/cody)** — Sourcegraph's code-search assistant, now sold only as part of an enterprise plan. `Enterprise only` · [review](https://devtoolsreview.com/reviews/cody-review/)
+- **[Amazon Q Developer](https://aws.amazon.com/q/developer/)** — AWS's coding assistant, closed to new signups and being replaced by Kiro. `Closed to new signups, free tier` · [review](https://devtoolsreview.com/reviews/amazon-q-review/)
 
 ## Terminal & open-source agents
 
@@ -114,12 +114,12 @@ Each one is a hands-on write-up, not a spec table.
 
 Tracked since Mar 17, 2026. Full log: [https://devtoolsreview.com/changes/](https://devtoolsreview.com/changes/)
 
+- **Aug 15, 2026** — All tools: Verified 2 previously unconfirmed capabilities: Claude Code has team admin & SSO (Enterprise tier), Cody is no longer open source (its GitHub repo went private). 7 remain unverified.
 - **Aug 13, 2026** — All tools: Expanded what we track from 8 capability dimensions to 15, adding JetBrains support, self-hosting, open-source status, MCP support and team admin/SSO. Anything we could not confirm is marked unverified rather than guessed at.
 - **Aug 6, 2026** — All tools: All 11 tools re-checked against vendor pricing pages. No prices moved. Publisher affiliate status re-checked at the same time: still none active.
 - **Aug 5, 2026** — Windsurf (Devin Desktop): Renamed to Devin Desktop following Cognition's acquisition. Pricing unchanged; we still file it under Windsurf, the more-searched name.
 - **Jul 6, 2026** — Windsurf (Devin Desktop): Pro rose from $15/mo to $20/mo, and Teams from $30 to $40/user/mo.
 - **Jul 6, 2026** — Windsurf (Devin Desktop): Free tier changed from a 25-credit monthly allowance to a daily quota, and a $200/mo Max tier appeared.
-- **Jul 6, 2026** — GitHub Copilot: Pro+ rose from $20/mo to $39/mo. Pro held at $10/mo.
 
 ## Contributing
 
