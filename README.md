@@ -114,12 +114,12 @@ Each one is a hands-on write-up, not a spec table.
 
 Tracked since Mar 17, 2026. Full log: [https://devtoolsreview.com/changes/](https://devtoolsreview.com/changes/)
 
+- **Sep 6, 2026** — JetBrains AI: Restructured into named AI tiers. The flat Personal $10 / Commercial $20 licence split is gone, replaced by AI Pro (personal $10/mo, commercial $20/user/mo) and AI Ultimate (personal $30/mo, commercial $60/user/mo). Verified against the store data on jetbrains.com/ai-ides/buy/ (codes AIP, AIPU).
+- **Sep 6, 2026** — Cody: Sourcegraph now publishes a contract floor where it previously showed no number: the Enterprise plan reads "Starting at $16K" minimum. Still enterprise-only — no individual tier exists at any price.
+- **Sep 6, 2026** — All tools: Re-verified the four tools carrying unresolved high-severity freshness findings — JetBrains AI, Cursor, Cody and Amazon Q — against each vendor's own pages. Two moved (JetBrains restructured its tiers, Sourcegraph published a price floor); Cursor's tiers and Amazon Q's end-of-support dates were unchanged.
 - **Sep 1, 2026** — All tools: 3 of 11 tools re-checked this cycle — GitHub Copilot, Aider and Cline — all unchanged. The other 8 vendor pricing pages (Cursor, Windsurf/Devin Desktop, Zed, Tabnine, Claude Code, Amazon Q, Cody, JetBrains AI) were unreachable from this automation's network this month; their priceVerifiedAt dates are unchanged pending a working check.
 - **Aug 15, 2026** — All tools: Verified 2 previously unconfirmed capabilities: Claude Code has team admin & SSO (Enterprise tier), Cody is no longer open source (its GitHub repo went private). 7 remain unverified.
 - **Aug 13, 2026** — All tools: Expanded what we track from 8 capability dimensions to 15, adding JetBrains support, self-hosting, open-source status, MCP support and team admin/SSO. Anything we could not confirm is marked unverified rather than guessed at.
-- **Aug 6, 2026** — All tools: All 11 tools re-checked against vendor pricing pages. No prices moved. Publisher affiliate status re-checked at the same time: still none active.
-- **Aug 5, 2026** — Windsurf (Devin Desktop): Renamed to Devin Desktop following Cognition's acquisition. Pricing unchanged; we still file it under Windsurf, the more-searched name.
-- **Jul 6, 2026** — Windsurf (Devin Desktop): Pro rose from $15/mo to $20/mo, and Teams from $30 to $40/user/mo.
 
 ## Contributing
 
